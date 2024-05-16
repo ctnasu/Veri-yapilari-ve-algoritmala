@@ -26,3 +26,15 @@ Adım 3: [8, 11, 12, 16, 21, 22]
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız. O(n log n)
+
+
+Binary search tree proje
+       7
+       / \
+      5   8
+     / \   \
+    1   6   9
+   / \
+  0   3
+     / \
+    2   4
